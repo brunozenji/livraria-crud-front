@@ -1,0 +1,51 @@
+.App {
+  margin: 2rem;
+  padding: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(#16BFFD, #CB3066);
+}
+
+.form-livro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info-livro {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: white;
+}
+
+.form-livro input {
+  border-radius: 10px;
+  width: 80%;
+  height: 60px;
+  margin: 10px;
+  font-size: 18px;
+}
+
+.form-livro label {
+  font-size: 25px;
+}
+
+.form-button {
+  text-align: center;
+}
+
+.button {
+  margin: 1px;
+  border-radius: 10px;
+  width: 180px;
+  height: 40px;
+}
+
+
+input {
+  border-radius: 5px;
+  width: 30%;
+  height: 30px;
+  margin: 10px;
+  font-size: 18px;
+
+}
